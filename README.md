@@ -7,11 +7,8 @@ A fullstack GraphQL banking application built using React, Node & TypeScript.
 ![dashboard](images/first.png)
 
 ### Using
-- Register fist.
 ![dashboard](images/register.png)
-- And then login.
 ![dashboard](images/blank.png)
-- Add account and transaction! Play it!
 ![dashboard](images/dashboard.png)
 
 ## Functions

@@ -4,7 +4,6 @@ A fullstack GraphQL banking application built using React, Node & TypeScript.
 
 - check ormconfig.json file to check or update database connection info.
 
-- It will server at http://localhost:3000/
 ![dashboard](images/first.png)
 
 ### Using
